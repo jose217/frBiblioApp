@@ -8,4 +8,3 @@ Entrega final del proyecto
 - 3 | 25-0269-2023 | Hernández García Macdonio Bladimir
 - 4 | 27-2010-2023 | Molina Martínez Santiago Adonay
 - 5 | 25-1309-2023 | Marroquín Flores Carlos Alejandro
-- 6 | 25-0346-2015 | Serrano Miranda José Obed
