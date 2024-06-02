@@ -1,0 +1,76 @@
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe.config
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.pdb
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.AssemblyReference.cache
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Menu.resources
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Properties.Resources.resources
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.GenerateResource.cache
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.exe
+C:\Users\Jesus Estrada\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.pdb
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe.config
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.pdb
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.AssemblyReference.cache
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Menu.resources
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Properties.Resources.resources
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Reservar.resources
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.GenerateResource.cache
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.CoreCompileInputs.cache
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.exe
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.pdb
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Login.resources
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.ConsultarLibros.resources
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroLibros.resources
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroUsuarios.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.AssemblyReference.cache
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.exe
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.pdb
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe.config
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.pdb
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.ConsultarLibros.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroLibros.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Login.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Menu.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Properties.Resources.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroUsuarios.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Reservar.resources
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.GenerateResource.cache
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.frConsulReservas.resources
+C:\Users\Ventura Vásquez\Desktop\frBiblioAPP\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.frConsulReservas.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.AssemblyReference.cache
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.frConsulReservas.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroLibros.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Login.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Menu.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Properties.Resources.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroUsuarios.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Reservar.resources
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.GenerateResource.cache
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.CoreCompileInputs.cache
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.exe
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.pdb
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe.config
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.pdb
+C:\Users\Lab3\Desktop\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.ConsulUsuario.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe.config
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.exe
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\bin\Debug\frBiblioAPP.pdb
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.frConsulReservas.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.ConsulUsuario.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroLibros.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Login.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Menu.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Properties.Resources.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.RegistroUsuarios.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.Reservar.resources
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.exe
+C:\Users\admin\Desktop\Universidad\2024-01\PROGRA24\proyecto\proyecto\frBiblioAPP\frBiblioAPP\obj\Debug\frBiblioAPP.pdb
